@@ -1,4 +1,4 @@
 Django==1.11.29
 django-forms-bootstrap==3.1.0 #allows bootstrap styling of Django forms
-Pillow==7.1.2 #allows uploading of images
+Pillow==9.0.1 #allows uploading of images
 pytz==2020.1
